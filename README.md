@@ -1,6 +1,6 @@
-**Note: data.pkl is a pickle file. It consists of a class**
+**Note: data.pkl is a pickle file. It consists of a dictionary**
 
-The contents of the class are 
+The contents of the dictionary are in the format
 data  = {'state'=[],
 'action':[],
 'next_state':[]
